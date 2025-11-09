@@ -1,6 +1,0 @@
-streamlit
-pandas
-openpyxl
-PyMuPDF==1.23.8 # Gunakan versi stabil yang lebih lama
-PyPDF2
-qrcode
